@@ -16,3 +16,14 @@
 - 📫 How to reach me **2020pct0066@iitjammu.ac.in**
 - 👨‍🎓 About me, work with happiness ➕ Dedicated  ➕ Learn with fun➕ Happy Life  ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 Curiosity_kils_af! at every new thing like technical, historical (monuments and all not history :) ), motivational movies or persons🐥
+
+<br>
+ 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajatenzyme&show_icons=true&theme=synthwave" alt="rajatenzyme" /> </p>
+ 
+
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatenzyme&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatenzyme&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=rajatenzyme&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
