@@ -19,7 +19,7 @@
 
 <br>
  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajatenzyme&show_icons=true&theme=synthwave" alt="rajatenzyme" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajatenzyme&show_icons=true&theme=synthwave&include_all_commits=true" alt="rajatenzyme" /> </p>
  
 
 <p align="left">
