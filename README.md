@@ -19,6 +19,10 @@
 
 <br>
  
+ <p align="center">
+   <a target= "_blank" href="https://www.linkedin.com/in/rajatenzyme/" alt="LinkedIn">Connect Me : <br><br> <img height='45' src="https://github.com/rajatenzyme/rajatenzyme/blob/master/linkedin.png"></a>
+</p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajatenzyme&show_icons=true&theme=synthwave&include_all_commits=true" alt="rajatenzyme" /> </p>
  
 
