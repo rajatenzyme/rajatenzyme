@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working **as Research Assistant at IIT Jammu**
-- 🌱 I’m currently learning **Machine Learning, Linear Algebra, Information Retrieval, competitive programming, Algorithms and Data Structure**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Linear Algebra, Information Retrieval, competitive programming, Algorithms and Data Structures**
 - 🤝 I’m looking for help with **Algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/rajatenzyme](https://github.com/rajatenzyme)
 - 💬 Ask me about **Programming and Technical issues**
