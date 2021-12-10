@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Mittal :alien: :mage_man:</h1>
-<h3 align="center">I am pursuing M.Tech. 👨‍🎓 from Indian Institute of Technology Jammu in Computer Technology (Research Assistant)</h3>
+<h3 align="center">I am pursuing M.Tech. 👨‍🎓 from Indian Institute of Technology (IIT) Jammu in Computer Technology (Research Assistant)</h3>
 
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working **as Research Assistant at IIT Jammu**
+- 🔭 I’m currently working **as a Research Assistant at IIT Jammu**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Linear Algebra, Information Retrieval, competitive programming, Algorithms and Data Structures**
 - 🤝 I’m looking for help with **Algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/rajatenzyme](https://github.com/rajatenzyme)
