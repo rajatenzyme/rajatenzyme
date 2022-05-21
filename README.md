@@ -15,7 +15,7 @@
 - 💬 Ask me about **Programming and Technical issues**
 - 📫 How to reach me **2020pct0066@iitjammu.ac.in**
 - 👨‍🎓 About me, work with happiness ➕ Dedicated  ➕ Learn with fun➕ Happy Life  ♾️ 🤓
-- 🦻 You ask what I do in free time? 🤔 Curiosity_kils_af!🐥
+- 🦻 You ask what I do in free time? 🤔 Curiosity_kills_af!🐥
 
 <br>
  
