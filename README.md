@@ -16,6 +16,8 @@
 - 📫 How to reach me **2020pct0066@iitjammu.ac.in**
 - 👨‍🎓 About me, work with happiness ➕ Dedicated  ➕ Learn with fun➕ Happy Life  ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 Curiosity_kills_af!🐥
+- HIRE ME : 
+- Link to my CV : https://drive.google.com/file/d/1R6-j9Hp8uD-C3Vl-SG70LS6-mwygIxKm/view?usp=sharing
 
 <br>
  
