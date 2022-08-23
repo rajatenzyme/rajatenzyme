@@ -15,7 +15,7 @@
 - 🤝 I’m looking for help with **Algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/rajatenzyme](https://github.com/rajatenzyme)
 - 💬 Ask me about **Programming and Technical issues**
-- 📫 How to reach me **2020pct0066@iitjammu.ac.in**
+- 📫 How to reach me **rajatmittal2012@gmail.com**
 - 👨‍🎓 About me, work with happiness ➕ Dedicated  ➕ Learn with fun➕ Happy Life  ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 Curiosity_kills_af!🐥
 - HIRE ME : 
