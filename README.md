@@ -11,6 +11,7 @@
 - 🔭 I’m currently working **as a Research Assistant at IIT Jammu**
 - ✌️ Experience - 1. **Data Science Intern @ Ericsson GAIA R&D**
                 - 2. **Engineering & Technology Intern @ Baker Hughes**
+                - 3. **Machine Learning Intern @ Zomato**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Linear Algebra, Information Retrieval, competitive programming, Algorithms and Data Structures**
 - 🤝 I’m looking for help with **Algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/rajatenzyme](https://github.com/rajatenzyme)
@@ -19,7 +20,7 @@
 - 👨‍🎓 About me, work with happiness ➕ Dedicated  ➕ Learn with fun➕ Happy Life  ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 Curiosity_kills_af!🐥
 - HIRE ME : 
-- Link to my CV : https://drive.google.com/file/d/1R6-j9Hp8uD-C3Vl-SG70LS6-mwygIxKm/view?usp=sharing
+- Link to my CV : https://drive.google.com/file/d/14IvbbtShs3JaZuJ-avQBtiLPEMOShY1A/view?usp=sharing
 
 <br>
  
