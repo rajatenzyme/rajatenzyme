@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Mittal :alien: :mage_man:</h1>
-<h3 align="center">I am pursuing M.Tech. 👨‍🎓 from Indian Institute of Technology (IIT) Jammu in Computer Technology (Research Assistant)</h3>
+<h3 align="center">I am a Data Scientist at Precisely. </h3>
 
 
 <p align="center">
@@ -8,19 +8,20 @@
 </p>
 
 
-- 🔭 I’m currently working **as a Research Assistant at IIT Jammu**
+- 🔭 I’m currently working **as a Data Scientist 1 at Precisely**
 - ✌️ Experience - 1. **Data Science Intern @ Ericsson GAIA R&D**
                 - 2. **Engineering & Technology Intern @ Baker Hughes**
                 - 3. **Machine Learning Intern @ Zomato**
+                - 3. **Applied Scientist Intern @ Amazon**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Linear Algebra, Information Retrieval, competitive programming, Algorithms and Data Structures**
 - 🤝 I’m looking for help with **Algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/rajatenzyme](https://github.com/rajatenzyme)
 - 💬 Ask me about **Programming and Technical issues**
 - 📫 How to reach me **rajatmittal2012@gmail.com**
 - 👨‍🎓 About me, work with happiness ➕ Dedicated  ➕ Learn with fun➕ Happy Life  ♾️ 🤓
-- 🦻 You ask what I do in free time? 🤔 Curiosity_kills_af!🐥
+- 🦻 You ask what I do in my free time. 🤔 Curiosity_kills_af!🐥
 - HIRE ME : 
-- Link to my CV : https://drive.google.com/file/d/14IvbbtShs3JaZuJ-avQBtiLPEMOShY1A/view?usp=sharing
+- Link to my CV: https://drive.google.com/file/d/14IvbbtShs3JaZuJ-avQBtiLPEMOShY1A/view?usp=sharing
 
 <br>
  
