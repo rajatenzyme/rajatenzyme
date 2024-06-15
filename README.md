@@ -21,7 +21,7 @@
 - 👨‍🎓 About me, work with happiness ➕ Dedicated  ➕ Learn with fun➕ Happy Life  ♾️ 🤓
 - 🦻 You ask what I do in my free time. 🤔 Curiosity_kills_af!🐥
 - HIRE ME : 
-- Link to my CV: https://drive.google.com/file/d/14IvbbtShs3JaZuJ-avQBtiLPEMOShY1A/view?usp=sharing
+- My CV - > Please reach out at my email. :) 
 
 <br>
  
