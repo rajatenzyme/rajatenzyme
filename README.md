@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Mittal :alien: :mage_man:</h1>
-<h3 align="center">I am a Data Scientist at Precisely. </h3>
+<h3 align="center">I am a SDEII at Texas Instruments. </h3>
 
 
 <p align="center">
@@ -8,8 +8,9 @@
 </p>
 
 
-- 🔭 I’m currently working **as a Data Scientist 1 at Precisely**
-- ✌️ Experience - 1. **Data Science Intern @ Ericsson GAIA R&D**
+- 🔭 I’m currently working **as a SDEII at Texas Instruments**
+- ✌️ Experience - 1. **Data Scientist @ Precisely**. 
+                - 1. **Data Science Intern @ Ericsson GAIA R&D**
                 - 2. **Engineering & Technology Intern @ Baker Hughes**
                 - 3. **Machine Learning Intern @ Zomato**
                 - 3. **Applied Scientist Intern @ Amazon**
