@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Mittal :alien: :mage_man:</h1>
-<h3 align="center">I am a SDEII at Texas Instruments. </h3>
+<h3 align="center">I am a Senior Software Engineer at Texas Instruments. </h3>
 
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working **as a SDEII at Texas Instruments**
+- 🔭 I’m currently working **as a Senior Software Engineer at Texas Instruments**
 - ✌️ Experience - 1. **Data Scientist @ Precisely**. 
                 - 1. **Data Science Intern @ Ericsson GAIA R&D**
                 - 2. **Engineering & Technology Intern @ Baker Hughes**
